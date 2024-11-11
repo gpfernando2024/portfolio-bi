@@ -18,4 +18,3 @@ Bem-vindo ao meu portfólio de projetos de Business Intelligence! Aqui você enc
 - **Descrição**: Relatório detalhado das receitas e despesas para análise financeira.
 - **Ferramentas**: Excel e Power BI
 - [Visualizar Projeto](link_do_projeto)
-# portfolio-bi
